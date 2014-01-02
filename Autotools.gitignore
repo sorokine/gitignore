@@ -12,5 +12,8 @@ Makefile.in
 /install-sh
 /missing
 /stamp-h1
+
+# autoscan files
+
 /autoscan.log
 /configure.scan
